@@ -6,7 +6,7 @@
 // but it is not a requirement and you can just use a standalone PoseNet API, e.g.,
 //   https://ml5js.org/docs/PoseNet
 
-import cv from "@mjyc/opencv.js";
+//import cv from "@mjyc/opencv.js";
 /*import xs from "xstream";
 import { makeDOMDriver } from "@cycle/dom";
 import { run } from "@cycle/run"; //
