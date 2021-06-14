@@ -1,4 +1,4 @@
-const cv = require('@mjyc/opencv.js')
+//const cv = require('@mjyc/opencv.js')
 //import cv from "./opencv.js";
 var txt = document.getElementById('text')
 
