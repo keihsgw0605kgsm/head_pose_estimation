@@ -1,5 +1,5 @@
-//const opencv = require('@mjyc/opencv.js/opencv.js')
-import cv from "opencv.js";
+const cv = require('@mjyc/opencv.js')
+//import cv from "./opencv.js";
 var txt = document.getElementById('text')
 
 window.onload = function() {
