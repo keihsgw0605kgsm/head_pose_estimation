@@ -7,3 +7,6 @@ window.onload = function() {
     cv.solvePnP();
     txt.textContent = "2"
 }
+.catch((e) => {
+    txt.textContent = e;
+})
